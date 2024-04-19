@@ -19,6 +19,16 @@
         	"360",
             "3d"
         ];
+        
+        const MyComponent = () => {
+      React.useEffect(() => {
+        return () => {
+          alert();
+        };
+      }, []);
+      return <div>pages[1]</div>;
+    };
+
       function Application() {
       	const [ currentPage, setCurrentPage ] = React.useState("");
         return (
@@ -28,8 +38,8 @@
             	<button onClick={() => setCurrentPage(page)}>{page}</button>
             ))}
           </div>
-          {currentPage == pages[0] && <p>pages[0]</p>}
-          {currentPage == pages[1] && <p>pages[1]</p>}
+          {<div style={{display: currentPage == pages[0] ? "block" : "none" }}><p>pages[0]</p><p>pages[0]</p><p>pages[0]</p></div>}
+          {<div style={{display: currentPage == pages[1] ? "block" : "none" }}><MyComponent/></div>}
             </div>
         )
       }
