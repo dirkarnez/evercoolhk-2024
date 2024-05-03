@@ -1,5 +1,12 @@
 [evercoolhk-2024](https://dirkarnez.github.io/evercoolhk-2024)
 ==============================================================
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/catalogues/tffc/index.html
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/catalogues/tfmc/index.html
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/catalogues/mimep/index.html
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/catalogues/ec-catalogue/index.html
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/glb/glb-index.html
+- https://www.evercoolhk.com/data/evercool/2024-exhibition/360/index.html
+
 ### AHU Selection
 - [dirkarnez/evercoolhk-2024-ahu-selection](https://github.com/dirkarnez/evercoolhk-2024-ahu-selection)
 
