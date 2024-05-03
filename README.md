@@ -7,6 +7,11 @@
 - https://www.evercoolhk.com/data/evercool/2024-exhibition/glb/glb-index.html
 - https://www.evercoolhk.com/data/evercool/2024-exhibition/360/index.html
 
+### Repos
+- https://github.com/dirkarnez/evercoolhk-qr-catalogues
+- https://github.com/dirkarnez/evercool-ifc-2024
+- https://github.com/dirkarnez/evercool-360-2024
+
 ### AHU Selection
 - [dirkarnez/evercoolhk-2024-ahu-selection](https://github.com/dirkarnez/evercoolhk-2024-ahu-selection)
 
